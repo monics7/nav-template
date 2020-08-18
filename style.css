@@ -1,0 +1,18 @@
+header {
+  height: 180vh;
+  min-height: 400px;
+  background-size: cover;
+  background-image: url("bg.jpg");
+}
+
+.hidden-spacer {
+  height: 56px;
+}
+nav.black {
+  background: rgba(0, 0, 0, 0.8);
+  height: 80px;
+  padding: 10px 50px;
+}
+nav.black .navbar-nav li a {
+  color: white !important;
+}
